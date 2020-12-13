@@ -1,0 +1,57 @@
+body {
+	margin: 0!important;
+	padding: 0!important;
+}
+.h1 {
+	font-weight: 300!important;
+	font-style: unset!important;
+	margin-bottom: 20px!important;
+}
+h5 {
+	font-size: 24px!important;
+	font-style: unset!important;
+	font-weight: 380!important;
+}
+label {
+	font-size: 18px!important;
+	font-style: unset!important;
+	font-weight: 380!important;
+	display: block!important;
+	overflow:hidden!important;
+	word-spacing: 0.1px!important;
+	letter-spacing: 0.1px!important;
+	color: #101010!important;
+}
+.alert {
+	box-shadow: 2px 2px 10px #f4f4f4!important;
+	clear: both!important;
+	display: block!important;
+	overflow: hidden!important;
+}
+input {
+	clear: both!important;
+	display: block!important;
+	padding: 10px!important;
+	color: #101010!important;
+	height: 39.5px!important;
+}
+button {
+	width: 97px!important;
+	height: 43px!important;
+	clear: both!important;
+	font-size: 17.5px!important;
+	font-style: unset!important;
+	font-weight: 380!important;
+	overflow: hidden!important;
+	padding: 5px!important;
+	margin-left: 1px!important;
+	margin-right: 1px!important;
+}
+a {
+	text-decoration: none!important;
+	overflow: hidden!important;
+	font-size: 16.9px!important;
+	font-style: unset!important;
+	font-weight: 380!important;
+	display: block!important;
+}
